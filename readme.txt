@@ -11,4 +11,8 @@ change (version - 5)
 change (Version -6) "branch test"
 
 
-change (version -6) "collification" AND
+<<<<<<< HEAD
+change (version -6) "collification" &
+=======
+change (version -6) "collification" &
+>>>>>>> feature
